@@ -1,0 +1,12 @@
+{
+  "name": "company-portfolio",
+  "version": "2.0.0",
+  "description": "Company Portfolio Landing Page (About, Achievements, Projects, Roadmap, Community) - controlled from account.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
